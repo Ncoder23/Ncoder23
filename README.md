@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nilkumar Patel</h1>
-# 💫 About Me:
 💬 A passionate software developer pursuing a Master Of Science in Computer Science and Engineering at Santa Clara University.<br>🤝 I’m open to a software developer position, especially in the field of Backend Development and AI.<br>🌱 I’m currently learning Flutter and ML/DL.<br>
 
 
