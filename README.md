@@ -1,13 +1,67 @@
 <h1 align="center">Hi 👋, I'm Nilkumar Patel</h1>
-💬 A passionate software developer pursuing a Master Of Science in Computer Science and Engineering at Santa Clara University.<br>🤝 I’m open to a software developer position, especially in the field of Backend Development and AI.
+
+I’m a passionate Software Engineer and Master's student in Computer Science at Santa Clara University. With a solid foundation in full-stack development, machine learning, and AI, I thrive on creating impactful solutions that solve real-world problems.
+
+---
+
+## 🚀 What I Do
+- **Full-Stack Development**: I’ve developed scalable web and mobile applications using frameworks like **React**, **Flutter**, and **Django**, with optimized backends using **Flask** and **RESTful APIs**.
+- **AI & Machine Learning**: From building a **Job Recommendation System** with advanced NLP to developing a **Multilingual TikTok Clone** with real-time translation capabilities, my projects reflect my dedication to harnessing cutting-edge AI technologies.
+- **Cloud Engineering**: Proficient in **AWS** and **GCP**, I’ve deployed microservices architectures, implemented CI/CD pipelines, and optimized analytics pipelines to boost efficiency and scalability.
+
+---
+
+## 🛠️ Skills & Technologies
+### Programming
+- Python, C++, JavaScript, SQL, Go
+
+### Frameworks & Tools
+- **Frontend**: React, Angular, Flutter
+- **Backend**: Django, Flask, GraphQL, RESTful APIs
+- **AI & ML**: TensorFlow, PyTorch, Hugging Face, LangChain
+- **Cloud**: AWS (EC2, S3, Lambda), GCP (BigQuery, Vertex AI)
+
+### Databases
+- PostgreSQL, MongoDB, Redis
+
+---
+
+## 🌟 Featured Projects
+- **[HackVok: Multilingual TikTok Clone](https://devpost.com/software/hackvok-multilingual-tiktok-clone)**  
+   An AI-powered video translation platform with real-time processing, enabling seamless multilingual content accessibility.
+   
+- **[AI Job Recommendation System](https://github.com/Ncoder23/Job-Board-AI)**  
+   A secure and scalable system combining **Spring Boot**, **React**, and **AWS** for personalized job recommendations.
+
+- **[Dictionary-Guided Scene Text Recognition]()**  
+   Achieved 20% accuracy improvement for complex text using super-resolution models and dictionary-based enhancements.
+
+---
+
+## 💼 Work Experience
+### Full-Stack Engineer | Santa Clara University
+- Developed mobile and web apps using **Flutter**, **Firebase**, and **React** to enhance campus safety and user engagement.
+
+### Software Engineer | Advancedware Technologies Pvt. Ltd.
+- Contributed to developing web applications for an Accounting and Inventory Management System using **Angular**, **Django**,
+**PostgreSQL**, **Google Cloud**, **BigQuery**, and **Vertex AI**.
+
+---
+
+## 🌐 Find Me Online
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nil_patel.23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patel-nilkumar/) 
+
+---
+
+Let’s build something incredible together! 🚀
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nil_patel.23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patel-nilkumar/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patel-nilkumar/) 
+<br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nil_patel.23) 
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
-<!--
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ncoder23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
