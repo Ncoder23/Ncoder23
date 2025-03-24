@@ -1,59 +1,113 @@
-<h1 align="center">Hi 👋, I'm Nilkumar Patel</h1>
+<h1 align="center">Hi, I'm Nilkumar Patel 👋</h1>
+<p align="center">
+  Software Engineer | Full-Stack Developer | AI & Cloud Enthusiast
+</p>
 
-I’m a passionate Software Engineer and Master's student in Computer Science at Santa Clara University. With a solid foundation in full-stack development, machine learning, and AI, I thrive on creating impactful solutions that solve real-world problems.
-
----
-
-## 🚀 What I Do
-- **Full-Stack Development**: I’ve developed scalable web and mobile applications using frameworks like **React**, **Flutter**, and **Django**, with optimized backends using **Flask** and **RESTful APIs**.
-- **AI & Machine Learning**: From building a **Job Recommendation System** with advanced NLP to developing a **Multilingual TikTok Clone** with real-time translation capabilities, my projects reflect my dedication to harnessing cutting-edge AI technologies.
-- **Cloud Engineering**: Proficient in **AWS** and **GCP**, I’ve deployed microservices architectures, implemented CI/CD pipelines, and optimized analytics pipelines to boost efficiency and scalability.
-
----
-
-## 🛠️ Skills & Technologies
-### Programming
-- Python, C++, JavaScript, SQL, Go
-
-### Frameworks & Tools
-- **Frontend**: React, Angular, Flutter
-- **Backend**: Django, Flask, GraphQL, RESTful APIs
-- **AI & ML**: TensorFlow, PyTorch, Hugging Face, LangChain
-- **Cloud**: AWS (EC2, S3, Lambda), GCP (BigQuery, Vertex AI)
-
-### Databases
-- PostgreSQL, MongoDB, Redis
+<p align="center">
+  <a href="mailto:nil171823@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/patel-nilkumar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ncoder23">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🌟 Featured Projects
-- **[HackVok: Multilingual TikTok Clone](https://devpost.com/software/hackvok-multilingual-tiktok-clone)**  
-   An AI-powered video translation platform with real-time processing, enabling seamless multilingual content accessibility.
-   
-- **[AI Job Recommendation System](https://github.com/Ncoder23/Job-Board-AI)**  
-   A secure and scalable system combining **Spring Boot**, **React**, and **AWS** for personalized job recommendations.
+## 🔍 About Me
 
-- **[Dictionary-Guided Scene Text Recognition]()**  
-   Achieved 20% accuracy improvement for complex text using super-resolution models and dictionary-based enhancements.
+I am a passionate Software Engineer with a Master’s degree in **Computer Science at Santa Clara University ( March 2025)** and expertise in full-stack development, distributed systems, API programming, and AI-driven applications. I thrive on optimizing efficiency and reliability, leveraging technologies like Python, TypeScript, JavaScript, React, Next.js, SQL, and AWS while continuously exploring new tools and frameworks.<br><br>
+**Curious, detail-oriented, and highly collaborative**, I enjoy solving complex problems in dynamic environments. With a strong work ethic and an innovative mindset, could support Garage's innovative projects.
+
 
 ---
 
-## 💼 Work Experience
-### Full-Stack Engineer | Santa Clara University
-- Developed mobile and web apps using **Flutter**, **Firebase**, and **React** to enhance campus safety and user engagement.
+## ⚒️ Tech Stack
 
-### Software Engineer | Advancedware Technologies Pvt. Ltd.
-- Contributed to developing web applications for an Accounting and Inventory Management System using **Angular**, **Django**,
-**PostgreSQL**, **Google Cloud**, **BigQuery**, and **Vertex AI**.
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind-css)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)
 
 ---
 
-## 🌐 Find Me Online
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nil_patel.23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patel-nilkumar/) 
+## 💼 Experience
+
+**Research Assistant @ Santa Clara University**  
+`Apr 2024 – Present`  
+- Built student safety app used by 5K+ users  
+- Integrated OpenStreetMap + optimized APIs  
+- 95% test coverage, 40% fewer bugs post-launch
+
+**Software Engineer @ Advancedware Technologies**  
+`Nov 2021 – Mar 2023`  
+- Built CRM tools for 100K+ daily transactions  
+- PostgreSQL optimization, CI/CD pipelines  
+- OAuth2 integration with 0 login failures
+
+---
+## 🚀 Featured Projects
+
+### 📂 [nDrive](https://ndriveapp.netlify.app/)
+Cloud-native file manager with secure uploads (AES-256), JWT auth, hierarchical folders, and blazing-fast MySQL performance.  
+🔗 [Code](https://github.com/Ncoder23/nDrive)
 
 ---
 
-Let’s build something incredible together! 🚀
+### 🎙️ [HackVok](https://devpost.com/software/hackvok-multilingual-tiktok-clone)
+Multilingual TikTok-style clone with AI speech translation (95% STT accuracy).  
+🏆 Finalist at TikTok TechJam 2024  
+🔗 [Devpost](https://devpost.com/software/hackvok-multilingual-tiktok-clone)
+
+---
+
+### 🤖 [AI Job Recommendation System](https://github.com/Ncoder23/Job-Board-AI)
+Job matching using TF-IDF, GPT embeddings, deployed with AWS Lambda, S3, and CloudWatch.
+
+---
+
+### 🛣️ [Road Object Detection](https://github.com/Ncoder23/DeepLearning/tree/main/Object%20Detection)
+YOLOv8 + TensorFlow-based real-time object detection optimized for road scenarios.
+
+---
+
+### 🧠 [Scene Text Recognition](https://drive.google.com/file/d/1CC6BQ_MbFdoQzen8e0PJcjAoRYWjnWJD/view)
+Advanced OCR with dictionary-guided decoding, Bezier alignments & super-resolution enhancements.
+
+---
+
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ncoder23&show_icons=true&hide_border=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ncoder23&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+
+
+---
+
+## 🐍 Contribution Snake (Fun)
+
+![GitHub Snake dark](https://github.com/Ncoder23/Ncoder23/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake light](https://github.com/Ncoder23/Ncoder23/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+---
+
+> _“Consistency beats talent when talent doesn’t show up.”_  
+Let’s build something together — reach out anytime!
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ncoder23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
