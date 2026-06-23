@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nilkumar Patel 👋</h1>
 <p align="center">
-  Software Engineer | Full-Stack Developer | AI & Cloud Enthusiast
+  Software Engineer @Amazon
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## 🔍 About Me
 
-I am a passionate Software Engineer with a Master’s degree in **Computer Science at Santa Clara University ( March 2025)** and expertise in full-stack development, distributed systems, API programming, and AI-driven applications. I thrive on optimizing efficiency and reliability, leveraging technologies like Python, TypeScript, JavaScript, React, Next.js, SQL, and AWS while continuously exploring new tools and frameworks.<br><br>
+I am a passionate Software Engineer working at AMAZON with a Master’s degree in **Computer Science at Santa Clara University ( March 2025)** and expertise in full-stack development, distributed systems, API programming, and AI-driven applications. I thrive on optimizing efficiency and reliability, leveraging technologies like Python, TypeScript, JavaScript, React, Next.js, SQL, and AWS while continuously exploring new tools and frameworks.<br><br>
 **Curious, detail-oriented, and highly collaborative**, I enjoy solving complex problems in dynamic environments. With a strong work ethic and an innovative mindset, let`s build something amazing together.
 
 
